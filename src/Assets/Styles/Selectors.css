@@ -1,0 +1,248 @@
+.dropdown {
+  cursor: pointer;
+  position: -webkit-sticky;
+  position: sticky;
+  margin-top: 15px;
+  background-color: white;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.menu {
+  position: absolute;
+  list-style-type: none;
+  border: 1px solid grey;
+  width: 200px;
+  margin-top: 43px;
+  margin-left: 68px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px gray;
+  height: 200px;
+  border: none;
+}
+
+.menu li {
+  background-color: white;
+}
+
+.menu > li > button {
+  border: none;
+  padding: 13px;
+  cursor: pointer;
+  background-color: white;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(49, 49, 49);
+  margin-left: -40px;
+}
+
+.main-button {
+  font-size: 14px;
+  background-color: navy;
+  color: white;
+  display: flex;
+  border: none;
+  border-radius: 5px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 7px;
+  margin-left: 78px;
+}
+
+.veg {
+  margin-top: 2px;
+}
+
+.icon {
+  top: 0px;
+}
+
+.function {
+  border: 1px solid black;
+  width: 300px;
+  height: 420px;
+  box-shadow: 0 0 10px gray;
+  border: none;
+  position: absolute;
+  right: 5%;
+  top: 67%;
+  background-color: white;
+  cursor: pointer;
+}
+
+.clear {
+  margin-left: 180px;
+  color: #ff316d;
+}
+
+.food {
+  color: grey;
+  margin-top: -10px;
+  margin: 15px;
+}
+
+.all {
+  width: 70px;
+  height: 30px;
+  border-radius: 18px;
+  border: none;
+}
+
+.all1 {
+  width: 70px;
+  height: 30px;
+  border-radius: 18px;
+  border: none;
+  margin-left: 10px;
+}
+
+.all2 {
+  width: 70px;
+  height: 30px;
+  border-radius: 18px;
+  border: none;
+  margin-left: 10px;
+}
+
+.veg1 {
+  width: 70px;
+  height: 30px;
+  border-radius: 18px;
+  border: none;
+  margin-left: 110px;
+}
+
+.button-row {
+  display: flex;
+  flex-direction: row;
+  margin: 15px;
+}
+
+.calories {
+  color: rgb(185, 177, 177);
+  margin: 15px;
+}
+
+.range {
+  width: 70px;
+  height: 30px;
+  border-radius: 18px;
+  border: none;
+  margin-top: 10px;
+}
+
+.calories-range {
+  display: flex;
+  margin: 10px;
+  flex-wrap: wrap;
+}
+
+.nutrition {
+  color: gray;
+  margin: 15px;
+}
+
+.first-two {
+  display: flex;
+  flex-direction: row;
+  margin-top: 35px;
+}
+
+.last-two {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+}
+
+.text-high {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.text-low {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  margin-top: -20px;
+}
+
+.text-lo {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  margin-top: -20px;
+  margin-left: 35px;
+}
+
+.total-num {
+  margin-top: -29px;
+}
+
+.apply {
+  width: 110px;
+  height: 35px;
+  background-color: red;
+  border: none;
+  color: white;
+  font-weight: bold;
+  margin-left: 170px;
+  margin-top: 7px;
+}
+
+.main-button > img {
+  padding: 10px;
+}
+
+.check-box {
+  border: 1px solid;
+  width: 100px;
+  height: 30px;
+  display: flex;
+  padding: 0px;
+  box-shadow: 0 0 7px rgb(37, 40, 46);
+  border: none;
+  font-size: 14px;
+  accent-color: green;
+}
+
+.check {
+  height: 15px;
+  width: 15px;
+}
+
+.check-box > input {
+  margin-top: 5px;
+}
+
+.main-check {
+  display: flex;
+  margin-left: auto;
+  margin-right: 70px;
+}
+
+.filtering {
+  margin-left: 25px;
+  font-size: 15px;
+}
+
+.filtering {
+  display: flex;
+  margin-top: -10px;
+}
+
+.filters {
+  margin: 5px;
+  height: 25px;
+  width: 25px;
+  margin-top: 12px;
+}
+
+.horizontal {
+  width: 94%;
+  margin-left: 30px;
+  margin-top: 10px;
+  color: white;
+}/*# sourceMappingURL=Selectors.css.map */

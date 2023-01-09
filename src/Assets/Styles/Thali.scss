@@ -1,0 +1,87 @@
+.thali {
+    height: 190px;
+    width: 253px;
+
+}
+
+// .icon {
+//     position: absolute;
+//     left: 110px;
+//     bottom: -205px;
+//     width: 55px;
+//     height: 55px;
+//     border-radius: 50%;
+// }
+
+.dishrate {
+    height: 15px;
+    width: 15px;
+
+}
+
+.dish-row {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+.text {
+    margin-left: 20px;
+    margin-top: -22px;
+    color: grey;
+}
+
+.text-head{
+    margin-left:30px;
+}
+.dishname{
+    margin-left:30px;
+}
+.imgs{
+    margin-left:30px;
+}
+
+.rupee-row {
+    display: flex;
+    margin-left:30px;
+}
+
+.rupee-line {
+    margin-left: 10px;
+    text-decoration: line-through;
+    color: grey;
+}
+
+.total {
+    border: 1px solid;
+    border: none;
+    width: 320px;
+    // height: 330px;
+    // margin-left: 80px;
+    box-shadow:0 0 10px whitesmoke;
+}
+.button-add{
+    width:85px;
+    height:30px;
+    margin-left:80px;
+    margin-top:10px;
+    background-color: navy;
+    color:white;
+    font-weight: bold;
+    border:none;
+}
+.ico{
+    height:50px;
+    width:50px;
+    border-radius:50%;
+     margin-top:-101px;
+    margin-left:6px;
+}
+.toatl-div{
+     display:flex;
+     flex-direction:row;
+     flex-wrap: wrap;
+    
+    
+  
+}

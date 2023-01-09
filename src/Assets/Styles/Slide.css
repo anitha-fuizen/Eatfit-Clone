@@ -1,0 +1,17 @@
+.each-slide {
+  display: flex;
+  flex-direction: row;
+}
+
+.each-slide img {
+  height: 170px;
+  width: 450px;
+}
+
+.each-slide > * {
+  padding: 10px;
+}
+
+.slide-show {
+  margin-top: -15px;
+}/*# sourceMappingURL=Slide.css.map */

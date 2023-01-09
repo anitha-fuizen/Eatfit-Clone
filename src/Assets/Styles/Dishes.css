@@ -1,0 +1,30 @@
+.dish-head {
+  display: flex;
+  overflow-x: scroll;
+  margin-left: 60px;
+  margin-right: 50px;
+  margin-top: -15px;
+}
+
+.img5 {
+  height: 100px;
+  width: 100px;
+}
+
+.dishes-main {
+  margin: 21px;
+}
+
+.dishes-main > p {
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+  margin-left: 5px 30px;
+}
+
+.dishes-text {
+  text-align: center;
+}/*# sourceMappingURL=Dishes.css.map */
