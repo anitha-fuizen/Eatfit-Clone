@@ -5,7 +5,7 @@
 
 .dishrate {
   height: 15px;
-  width: 15px;
+  width: 10px;
 }
 
 .dish-row {
@@ -73,4 +73,5 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  width: 1280px;
 }/*# sourceMappingURL=Thali.css.map */
